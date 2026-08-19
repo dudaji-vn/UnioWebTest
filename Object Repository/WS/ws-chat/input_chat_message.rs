@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_chat_message</name>
+   <tag></tag>
+   <elementGuidId>87240f37-5706-4cfa-8ec3-37df8820a81b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.max-h-96.w-full.overflow-auto.p-3.py-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'tiptap') and @contenteditable='true' and @data-placeholder]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e371461d-6efa-4e86-88ac-db66ce002245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-h-96 w-full overflow-auto p-3 py-2</value>
+      <webElementGuid>393e7d39-a5b8-42c4-95c8-dd6e97b79a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_r_4p_&quot;)/div[@class=&quot;flex h-full flex-col&quot;]/div[@class=&quot;flex min-h-0 flex-1 flex-col overflow-hidden&quot;]/div[@class=&quot;relative outline-none flex h-full flex-col overflow-hidden bg-background&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;relative flex flex-col rounded-2xl border bg-card transition-all focus-within:border-ring/40&quot;]/div[@class=&quot;@container relative flex flex-1 flex-col&quot;]/div[@class=&quot;flex items-center justify-between p-2 pl-0&quot;]/div[@class=&quot;max-h-96 w-full overflow-auto p-3 py-2&quot;]</value>
+      <webElementGuid>f590fb54-b3ee-4f8e-91b0-8af490640826</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_r_4p_']/div/div[2]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>cd7037d3-b3cd-461b-9bd2-0eaf902039d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/following::div[2]</value>
+      <webElementGuid>5808f4fc-c714-46cd-943e-091247d8e55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blockquote'])[1]/following::div[5]</value>
+      <webElementGuid>20111b4a-a490-4163-bf6a-42127a0d896c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/preceding::div[2]</value>
+      <webElementGuid>09e68321-59c5-4a46-a9cd-80ffd87b0a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>b7c2e217-6b26-4cda-880b-7d1756c1b4ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

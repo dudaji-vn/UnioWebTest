@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ChatName</name>
+   <tag></tag>
+   <elementGuidId>4e629253-305b-479b-b17c-d966f6c6916e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.min-w-0.flex-1.truncate.text-left.font-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label='Show room details']//span[contains(@class, 'font-semibold')]/text()</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8512e3e-d455-4d5f-9879-fe0a66f036c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-0 flex-1 truncate text-left font-semibold</value>
+      <webElementGuid>c5bdcefb-ffd5-4489-9325-b5452cbf7cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General</value>
+      <webElementGuid>90cee878-0ff8-4ee4-abca-960e1b8ecccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_r_5b_&quot;)/div[@class=&quot;flex h-full flex-col&quot;]/div[@class=&quot;border-foreground/15 border-b&quot;]/div[@class=&quot;flex items-center justify-between p-2&quot;]/div[@class=&quot;line-clamp-1 flex flex-1 items-center gap-2 pl-1&quot;]/button[@class=&quot;flex min-w-0 flex-1 cursor-pointer items-center gap-2&quot;]/span[@class=&quot;min-w-0 flex-1 truncate text-left font-semibold&quot;]</value>
+      <webElementGuid>cb1d62d3-0425-471c-a6e3-aac89d7abe15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_r_5b_']/div/div/div/div/button[2]/span</value>
+      <webElementGuid>32aaf20b-0632-4cd1-b8a0-70b27933f3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(you)'])[1]/following::span[2]</value>
+      <webElementGuid>7034f2b3-ba66-4cbb-8bae-8de8576ad964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[3]/preceding::span[1]</value>
+      <webElementGuid>638799a5-8a3b-4c74-86ef-34930f1289fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>9c8ddca4-77e9-4860-a397-e94655af0648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'General' or . = 'General')]</value>
+      <webElementGuid>d1d73b61-f135-49be-9f1a-9747168e52c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

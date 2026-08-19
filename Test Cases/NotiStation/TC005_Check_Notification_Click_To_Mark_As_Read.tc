@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Check_Notification_As_Inviter</name>
+   <name>TC005_Check_Notification_Click_To_Mark_As_Read</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>59e4d065-1002-4aea-aff5-d883e713208c</testCaseGuid>
+   <testCaseGuid>f86e3dab-f124-45c9-88d0-42b2ed978207</testCaseGuid>
 </TestCaseEntity>

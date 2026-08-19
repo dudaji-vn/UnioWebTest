@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Check_Notification_As_Invitee</name>
+   <name>TC003_Check_Notification_When_Member_Leave</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3fbfe583-41b9-4955-9817-bf3af7dd7fac</testCaseGuid>
+   <testCaseGuid>d2e5524e-50c4-4236-8a16-905613a94627</testCaseGuid>
 </TestCaseEntity>
