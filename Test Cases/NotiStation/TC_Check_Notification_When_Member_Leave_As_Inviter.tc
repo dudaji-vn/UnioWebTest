@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Check_Notification_When_Member_Leave_As_Inviter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>febd5705-ebaf-4b95-b29a-21a868cd2c35</testCaseGuid>
+</TestCaseEntity>

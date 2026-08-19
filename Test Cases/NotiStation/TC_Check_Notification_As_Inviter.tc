@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Check_Notification_As_Inviter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59e4d065-1002-4aea-aff5-d883e713208c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Station_And_Invite</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad3227dc-205e-45c1-9c0a-b73d99a81ef7</testCaseGuid>
+</TestCaseEntity>

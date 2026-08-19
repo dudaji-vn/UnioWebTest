@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Invited users</name>
+   <tag></tag>
+   <elementGuidId>40e95d6e-335e-4c11-9e37-9127e103980c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog']//div[contains(@class, 'cursor-text')]//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3afcde08-2e20-44c8-bc47-0714c62aa2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-auto min-w-37.5 flex-1 border-none bg-transparent font-normal text-base placeholder:text-muted-foreground focus:border-none focus:outline-none focus:ring-0 disabled:cursor-not-allowed</value>
+      <webElementGuid>94a06b90-995e-4778-b5f4-1e6cebc5a15f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter usernames (e.g., john_doe)...</value>
+      <webElementGuid>e7715d42-6963-4de3-a000-2c3358408e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_1l_&quot;)/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;min-h-52 w-full&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;flex h-full w-full cursor-text flex-col gap-3 rounded-2xl border border-input bg-background p-2 text-left transition-colors duration-200&quot;]/div[@class=&quot;flex w-full flex-wrap items-center gap-2&quot;]/input[@class=&quot;w-auto min-w-37.5 flex-1 border-none bg-transparent font-normal text-base placeholder:text-muted-foreground focus:border-none focus:outline-none focus:ring-0 disabled:cursor-not-allowed&quot;]</value>
+      <webElementGuid>dfdfadb1-4c5f-47f4-bba4-400d6f27ae2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>30127f97-61c5-4d39-8b43-da76637476ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_1l_']/div[2]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>6b3a075a-9f23-4bf3-ae3a-5c5394f7c957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>ee9ce4ef-864d-46e4-aa65-ebb57047ffb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter usernames (e.g., john_doe)...']</value>
+      <webElementGuid>af3425e4-9dc7-46d4-b5fe-ac11f687cd6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

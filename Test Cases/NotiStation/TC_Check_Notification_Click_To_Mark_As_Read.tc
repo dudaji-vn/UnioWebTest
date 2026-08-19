@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Check_Notification_Click_To_Mark_As_Read</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f86e3dab-f124-45c9-88d0-42b2ed978207</testCaseGuid>
+</TestCaseEntity>

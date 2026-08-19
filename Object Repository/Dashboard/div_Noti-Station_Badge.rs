@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Noti-Station_Badge</name>
+   <tag></tag>
+   <elementGuidId>808e3420-0a5f-487b-8ab4-29bf52352e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'bg-red-500') and contains(@class, 'rounded-full') and contains(@class, 'absolute')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35b488ef-f543-47fe-adae-6de2577cc4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0.5 right-1 flex size-4 items-center justify-center rounded-full bg-red-500 text-[0.5rem] text-white</value>
+      <webElementGuid>c36c2dbc-0e3c-439c-9896-8fad1d3751be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>8c10f632-d92f-469f-ae8c-d91a39a0e9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center gap-5 px-25 py-5&quot;]/div[@class=&quot;flex w-full flex-col items-start justify-between gap-3 md:flex-row md:items-center&quot;]/div[@class=&quot;flex w-full items-center justify-between gap-2 md:justify-end&quot;]/button[@class=&quot;cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive active:bg-primary-active size-9 relative bg-secondary text-secondary-foreground hover:bg-secondary/80&quot;]/div[@class=&quot;absolute top-0.5 right-1 flex size-4 items-center justify-center rounded-full bg-red-500 text-[0.5rem] text-white&quot;]</value>
+      <webElementGuid>3899cc54-a98c-4fdf-9fbb-50309cec1cec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div[2]/button/div</value>
+      <webElementGuid>27fc39d3-b9e0-4a97-bcfd-196fbf13c280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>31e39441-8eac-4f9c-884c-503587c417ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All stations'])[1]/preceding::div[3]</value>
+      <webElementGuid>b69d252e-6d19-40c2-b348-801721d8db2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My stations'])[1]/preceding::div[3]</value>
+      <webElementGuid>9ecca18d-f324-4925-958e-af0dd237fd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>320fcdc2-fe8d-485f-9098-161d4958d2ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>6080992d-1c7d-422d-827c-353a57594d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2' or . = '2')]</value>
+      <webElementGuid>4ac12be2-6b65-4b99-b218-79018adedd9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

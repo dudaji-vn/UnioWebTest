@@ -9,9 +9,8 @@
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.2.0</modifiedVersion>
+   <modifiedVersion>11.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\sun\Katalon Studio\UnioWebTest\UnioWebTest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

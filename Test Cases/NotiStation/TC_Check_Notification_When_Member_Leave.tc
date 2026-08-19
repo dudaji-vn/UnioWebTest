@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Check_Notification_When_Member_Leave</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2e5524e-50c4-4236-8a16-905613a94627</testCaseGuid>
+</TestCaseEntity>

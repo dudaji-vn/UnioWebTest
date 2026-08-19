@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Leave Station-setting-page</name>
+   <tag></tag>
+   <elementGuidId>d7fb9c7a-d348-4512-8d2c-49dada65162a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c9b9f2e-cf83-44a8-af6a-6d8e774640b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc2349d6-be76-460c-a08d-5d3a762496f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active h-9 px-4 py-2 has-[>svg]:px-3 font-semibold text-base text-destructive hover:text-destructive/90</value>
+      <webElementGuid>d20b3e6f-aff1-4b65-adf8-d152fdf27bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>16c814bb-30a9-46ad-ba06-071ecab47524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave Station</value>
+      <webElementGuid>b02b5775-bf73-44d2-aaf7-f06f0a56c31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;[--header-height:calc(--spacing(10))]&quot;]/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar min-h-svh w-full flex flex-col&quot;]/div[@class=&quot;SplitPane flex h-full top-(--header-height) h-[calc(100svh-var(--header-height))]! vertical disabled&quot;]/div[@class=&quot;Pane vertical Pane1&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;SplitPane flex h-full transition-[padding-left] duration-200 ease-linear group-data-[state=collapsed]:pl-(--sidebar-width) pl-(--sidebar-width-icon) vertical&quot;]/div[@class=&quot;Pane vertical Pane2&quot;]/div[@class=&quot;@container h-full w-full flex-1 overflow-hidden bg-background&quot;]/div[@class=&quot;container mx-auto w-full overflow-hidden @min-5xl:px-0 px-4 py-8 h-full max-w-full space-y-3 overflow-y-auto p-5!&quot;]/div[@class=&quot;bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm&quot;]/form[1]/div[@class=&quot;px-6 flex flex-col gap-5&quot;]/button[@class=&quot;cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active h-9 px-4 py-2 has-[>svg]:px-3 font-semibold text-base text-destructive hover:text-destructive/90&quot;]</value>
+      <webElementGuid>427b4558-4f13-4f38-b61a-53161bd00eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>9ce1dd9e-b180-4ccc-83e5-9bd7d3f288f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div[2]/div/div/div[2]/form/div/button</value>
+      <webElementGuid>be7fbdcc-4cba-461e-8cbc-f5a9457e6a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created at'])[1]/following::button[1]</value>
+      <webElementGuid>109495c9-999a-41a5-85fb-a5f7888f129e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lieucao16122003'])[1]/following::button[1]</value>
+      <webElementGuid>89940014-4d68-451d-857e-f9d40e23fcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable notifications?'])[1]/preceding::button[1]</value>
+      <webElementGuid>b5f0d0fb-6f94-4be2-b18a-3739b1e5f954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>fe32ec96-e10c-4dab-8c3d-b5b479ee9623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Leave Station' or . = 'Leave Station')]</value>
+      <webElementGuid>0ee2d84b-ef9d-48ac-ba5a-910a6413dfb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

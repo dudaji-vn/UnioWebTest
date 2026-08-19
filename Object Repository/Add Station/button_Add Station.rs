@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Station</name>
+   <tag></tag>
+   <elementGuidId>e24cd541-f9af-418a-93b9-bc9442d046c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cbfb324f-470f-4ee8-aaeb-c6b7da541a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b1a30974-cff2-478e-85d8-cc662883d189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>disabled:cursor-not-allowed whitespace-nowrap text-sm font-medium transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active px-4 py-2 has-[>svg]:px-3 flex h-24 cursor-pointer flex-col items-center justify-center gap-3 rounded-[12px] border border-primary border-dashed text-primary</value>
+      <webElementGuid>64098a81-b31d-40f8-81be-9c62e02a21dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Station</value>
+      <webElementGuid>feb2d083-6d85-4a34-89a4-094f94e7bd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center gap-5 px-25 py-5&quot;]/div[@class=&quot;grid w-full grid-cols-1 xs:grid-cols-2 gap-5 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4&quot;]/button[@class=&quot;disabled:cursor-not-allowed whitespace-nowrap text-sm font-medium transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active px-4 py-2 has-[>svg]:px-3 flex h-24 cursor-pointer flex-col items-center justify-center gap-3 rounded-[12px] border border-primary border-dashed text-primary&quot;]</value>
+      <webElementGuid>e40bbd7c-91ea-4ae8-a350-8a8a8ec6d1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/button</value>
+      <webElementGuid>d2a6747f-3c98-4731-ad3c-41fb508ae05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::button[1]</value>
+      <webElementGuid>80162dd4-1f33-4b39-8119-49ccdeb1ac04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All stations'])[2]/following::button[2]</value>
+      <webElementGuid>17b57ad4-e81c-4244-96d7-821d68d1aa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable notifications?'])[1]/preceding::button[1]</value>
+      <webElementGuid>19bb971d-25a1-4029-be28-4c397e378dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>11d7bc5f-debc-45b5-bbe4-14841736cdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Station' or . = 'Add Station')]</value>
+      <webElementGuid>59662f13-1520-4848-b447-37d033f8d3bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
