@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dont ask again</name>
+   <tag></tag>
+   <elementGuidId>ac7efc86-0e80-4bd8-ab38-5d46d92e1fc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@data-sonner-toast]//button[contains(text(), &quot;Don't ask again&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4577a88-0659-41e1-89b9-71c6228198da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c2acd22-6fcc-4435-89e4-e840b7b6ae63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5</value>
+      <webElementGuid>7a0b2fba-6614-4411-9242-df7701e7434a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't ask again</value>
+      <webElementGuid>c7074384-dd70-4751-bf22-c23790d70010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[1]/ol[@class=&quot;toaster group&quot;]/li[1]/div[1]/div[1]/div[@class=&quot;flex min-w-[320px] max-w-105 items-start gap-3 rounded-lg border bg-background p-4 shadow-lg&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:bg-accent hover:text-accent-foreground active:bg-accent-active dark:hover:bg-accent/50 dark:active:bg-accent-active h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5&quot;]</value>
+      <webElementGuid>f5714ef0-ede6-4119-9db4-73da155f9532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/ol/li/div/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>eb14f999-9ed2-4240-afe8-33b7896be857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable'])[1]/following::button[1]</value>
+      <webElementGuid>3b2a305f-9cc0-4702-bb37-faec255229c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable notifications?'])[1]/following::button[2]</value>
+      <webElementGuid>3bc3ef1d-160e-454c-83a9-1112717de50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/button[2]</value>
+      <webElementGuid>76225aea-4fb6-4734-a1ab-60a29f0244d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t ask again&quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t ask again&quot;))]</value>
+      <webElementGuid>c78c66ba-9c3b-4c25-a8a8-cd12686d511d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

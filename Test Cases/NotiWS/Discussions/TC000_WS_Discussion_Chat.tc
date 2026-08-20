@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC000_WS_Discussion_Chat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f784db9c-87d0-4118-b8f7-1b6f2bdb50c1</testCaseGuid>
+</TestCaseEntity>

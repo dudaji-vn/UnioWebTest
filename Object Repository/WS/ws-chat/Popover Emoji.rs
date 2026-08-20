@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Popover Emoji</name>
+   <tag></tag>
+   <elementGuidId>22e02172-5e19-4027-91b0-a3d4fd939de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.h-12.w-auto.items-center.gap-1.rounded-md.px-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog' and @data-slot='popover-content' and @data-state='open']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f52a8371-416f-443d-8fb4-7e60af935ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-12 w-auto items-center gap-1 rounded-md px-2</value>
+      <webElementGuid>a130fa11-7e45-4b6c-bb3c-a7ca43d5d52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>👍❤️👀🙂😂😢</value>
+      <webElementGuid>135d546c-ef8b-4494-aac9-4e43e07a0639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_4d_&quot;)/div[@class=&quot;flex h-12 w-auto items-center gap-1 rounded-md px-2&quot;]</value>
+      <webElementGuid>1f87d778-439b-408a-a6de-8a91a212c6b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-_r_4d_']/div</value>
+      <webElementGuid>c9dcf72c-6ab1-4f14-8975-f3e58932ebdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      <webElementGuid>03353d39-2b16-4837-8b5c-1ac85b5804ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>767852c3-c9e8-46af-80c9-3d5fae1c0b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '👍❤️👀🙂😂😢' or . = '👍❤️👀🙂😂😢')]</value>
+      <webElementGuid>ad6c06dc-b134-43d1-b26a-911cf7177a74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

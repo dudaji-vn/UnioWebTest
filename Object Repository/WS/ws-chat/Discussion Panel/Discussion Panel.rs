@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Input-chat-content</name>
+   <name>Discussion Panel</name>
    <tag></tag>
-   <elementGuidId>28e08507-d9ac-4758-80e6-cf50c6b632c0</elementGuidId>
+   <elementGuidId>c12e22f6-905b-4fb8-8e0a-ce0e9c8043e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[contains(@class, 'tiptap') and @contenteditable='true']</value>
+         <value>//div[contains(@class, 'flex h-full flex-col overflow-hidden bg-background') and .//label[contains(text(), 'Discussion')]]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.flex.items-center.justify-between.p-2.pl-0</value>
+         <value>div.flex.h-12.min-h-12.w-full.items-center.gap-2.pr-2.pl-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ee216156-c8ec-4dc6-ae29-3fcdb2b5e237</webElementGuid>
+      <webElementGuid>aecd365e-c38e-4c1b-99c3-aed9fb0abd63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>flex items-center justify-between p-2 pl-0</value>
-      <webElementGuid>ab981e78-761b-4625-981e-ecce51d7a5cc</webElementGuid>
+      <value>flex h-12 min-h-12 w-full items-center gap-2 pr-2 pl-3</value>
+      <webElementGuid>489bf1b6-cd59-4ded-8816-d7e7b5507558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Send</value>
-      <webElementGuid>539acbad-e778-47fa-a24e-c05a62d0e953</webElementGuid>
+      <value>Discussion</value>
+      <webElementGuid>2a37dfc1-f977-484d-9a26-cb1e948542f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_r_5b_&quot;)/div[@class=&quot;flex h-full flex-col&quot;]/div[@class=&quot;flex min-h-0 flex-1 flex-col overflow-hidden&quot;]/div[@class=&quot;relative outline-none flex h-full flex-col overflow-hidden bg-background&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;relative flex flex-col rounded-2xl border bg-card transition-all focus-within:border-ring/40&quot;]/div[@class=&quot;@container relative flex flex-1 flex-col&quot;]/div[@class=&quot;flex items-center justify-between p-2 pl-0&quot;]</value>
-      <webElementGuid>c5ac2279-ec04-4c48-af7e-496d818c5840</webElementGuid>
+      <value>id(&quot;_r_73_&quot;)/div[@class=&quot;flex h-full flex-col overflow-hidden bg-background&quot;]/div[@class=&quot;flex h-12 min-h-12 w-full items-center gap-2 pr-2 pl-3&quot;]</value>
+      <webElementGuid>2bf4278d-d2dc-49ae-a247-f73a1ac63340</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='_r_5b_']/div/div[2]/div/div[2]/div/div/div[2]</value>
-      <webElementGuid>d57c15aa-a032-4273-ad30-f70893e2eb64</webElementGuid>
+      <value>//div[@id='_r_73_']/div[2]/div</value>
+      <webElementGuid>b1051715-a830-485c-b79b-162fe08e5ce9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/following::div[1]</value>
-      <webElementGuid>7015bfca-86e1-44a6-b9f7-eeec4cb79892</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/following::div[5]</value>
+      <webElementGuid>43b770c6-9fc1-429e-ba4e-3e2bd2468b16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blockquote'])[1]/following::div[4]</value>
-      <webElementGuid>d3528ca2-d2bf-4fd8-ac0e-69a740227e50</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/following::div[9]</value>
+      <webElementGuid>da2918d6-cd63-4dad-a52d-59c9fa76d6c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable notifications?'])[1]/preceding::div[6]</value>
-      <webElementGuid>44557e8d-9aec-4554-84c2-c0c8418e2b74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lieucao16122003'])[4]/preceding::div[4]</value>
+      <webElementGuid>2dde6a95-ab4d-4499-a5d6-fca87d2bf0fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]</value>
-      <webElementGuid>94fd144b-0ebd-4e60-a2bf-73d93fb60cc0</webElementGuid>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>6fab8f65-ba10-4b3c-8338-98619f3cc910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Send' or . = 'Send')]</value>
-      <webElementGuid>d4592f00-8eaf-4bbe-ac9e-94c61892aded</webElementGuid>
+      <value>//div[(text() = 'Discussion' or . = 'Discussion')]</value>
+      <webElementGuid>f7667cbc-f775-4569-98e4-9bd9ced49365</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

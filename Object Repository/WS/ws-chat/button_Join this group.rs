@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Join this group</name>
+   <tag></tag>
+   <elementGuidId>fa7bfc06-e162-4155-863a-b41be9a14487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_r_53_']/div/div[2]/div/div[2]/div/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d24cd86-f72d-4466-bad3-faa328c4d621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0dd847cc-a520-42b1-846e-0d5cf85a9ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary-hover active:bg-primary-active h-9 has-[>svg]:px-3 w-50 p-2.5 font-semibold text-sm</value>
+      <webElementGuid>e3ce012c-b6a0-4ce4-b495-5a5ba53cf09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join this group</value>
+      <webElementGuid>a5c10f77-0627-40ff-8172-d9cfc9168e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_r_53_&quot;)/div[@class=&quot;flex h-full flex-col&quot;]/div[@class=&quot;flex min-h-0 flex-1 flex-col overflow-hidden&quot;]/div[@class=&quot;relative outline-none flex h-full flex-col overflow-hidden bg-background&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;relative flex flex-col rounded-2xl border bg-card transition-all focus-within:border-ring/40&quot;]/div[@class=&quot;@container relative flex flex-1 flex-col&quot;]/div[@class=&quot;absolute inset-0 z-50 cursor-not-allowed rounded-2xl bg-background/90 backdrop-blur-md rounded-b-xl&quot;]/div[@class=&quot;flex size-full flex-col items-center justify-center gap-3&quot;]/button[@class=&quot;cursor-pointer disabled:cursor-not-allowed inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md transition-all duration-150 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary-hover active:bg-primary-active h-9 has-[>svg]:px-3 w-50 p-2.5 font-semibold text-sm&quot;]</value>
+      <webElementGuid>334514f5-af96-468a-a262-9722882105f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_r_53_']/div/div[2]/div/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>5d39c74c-d784-4f92-9585-58fe8bb62eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To send a message, you have to join this group'])[1]/following::button[1]</value>
+      <webElementGuid>dce3db72-1d01-4e73-a753-5e981a36e7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/following::button[1]</value>
+      <webElementGuid>2fa550d4-78ae-4765-a030-e07fa121d182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable notifications?'])[1]/preceding::button[1]</value>
+      <webElementGuid>6b508849-e7ed-41ed-b50f-8a788e3d36aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable'])[1]/preceding::button[1]</value>
+      <webElementGuid>ad96a460-ccfe-4d2b-b545-ae9109e9b3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join this group']/parent::*</value>
+      <webElementGuid>3b62de0f-b31e-4102-b2cc-5448b51bd4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>44e74882-d248-456f-92ab-5b7251112f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Join this group' or . = 'Join this group')]</value>
+      <webElementGuid>9d0f926b-bbb3-49a3-bca9-733cec4f7e73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

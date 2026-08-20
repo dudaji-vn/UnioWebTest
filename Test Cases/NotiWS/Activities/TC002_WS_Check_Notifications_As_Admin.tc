@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_WS_Check_Notifications_As_Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad0263d3-4871-4991-ab16-dc408cd846e0</testCaseGuid>
+</TestCaseEntity>

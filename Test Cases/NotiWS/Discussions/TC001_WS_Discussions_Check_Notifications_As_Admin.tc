@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_WS_Discussions_Check_Notifications_As_Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0a178bb-1699-4d88-93e6-90d486153c69</testCaseGuid>
+</TestCaseEntity>

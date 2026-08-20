@@ -10,6 +10,7 @@ import com.kms.katalon.core.testcase.TestCase
 import com.kms.katalon.core.testcase.TestCaseFactory
 import com.kms.katalon.core.testdata.TestData
 import com.kms.katalon.core.testdata.TestDataFactory
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.ObjectRepository
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
@@ -54,7 +55,7 @@ try {
     
     // Generate unique station name with timestamp
     String stationName = "AutoTest_" + System.currentTimeMillis()
-	GlobalVariable.STATION_NAME = stationName
+    GlobalVariable.STATION_NAME = stationName
     WebUI.comment("Creating station with name: " + stationName)
     println("Creating station with name: " + stationName)
     
@@ -150,6 +151,65 @@ try {
     
     WebUI.comment("Invitation sent successfully to " + GlobalVariable.INVITEE_USERNAME)
     println("Invitation sent successfully to " + GlobalVariable.INVITEE_USERNAME)
+    
+    // ==================== Step 12: Send message in General chat ====================
+    WebUI.comment("=== Step 12: Send message 'Hi!' in General chat ===")
+    println("=== Step 12: Send message 'Hi!' in General chat ===")
+    
+    // Click on General channel
+    String generalXPath = "//button[contains(normalize-space(.), 'General')]"
+    TestObject generalBtn = new TestObject().addProperty('xpath', ConditionType.EQUALS, generalXPath)
+    
+    try {
+        WebUI.waitForElementClickable(findTestObject('Object Repository/WS/ws-chat/button_General'), 8)
+        WebUI.click(findTestObject('Object Repository/WS/ws-chat/button_General'))
+        WebUI.comment("Clicked General using Object Repository")
+        println("Clicked General using Object Repository")
+    } catch (Exception e) {
+        WebUI.comment("Object Repository failed, trying dynamic XPath for General...")
+        println("Object Repository failed, trying dynamic XPath for General...")
+        WebUI.waitForElementClickable(generalBtn, 10)
+        WebUI.click(generalBtn)
+        WebUI.comment("Clicked General using dynamic XPath")
+        println("Clicked General using dynamic XPath")
+    }
+    
+    WebUI.waitForPageLoad(10)
+    WebUI.delay(2)
+    
+    // Check if Join this group button exists and click if needed
+    boolean joinButtonExists = WebUI.verifyElementPresent(
+        findTestObject('Object Repository/WS/ws-chat/button_Join this group'),
+        5,
+        FailureHandling.OPTIONAL
+    )
+    
+    if (joinButtonExists) {
+        WebUI.comment("Join this group button found. Clicking to join the group...")
+        println("Join this group button found. Clicking to join the group...")
+        WebUI.click(findTestObject('Object Repository/WS/ws-chat/button_Join this group'))
+        WebUI.delay(2)
+        WebUI.waitForPageLoad(10)
+        WebUI.delay(1)
+    } else {
+        WebUI.comment("Already joined the group.")
+        println("Already joined the group.")
+    }
+    
+    // Click on chat input area
+    WebUI.click(findTestObject('Object Repository/WS/ws-chat/div_Input-chat-content'))
+    WebUI.delay(1)
+    WebUI.comment("Chat input area focused")
+    println("Chat input area focused")
+    
+    // Type "Hi!" and press Enter to send
+    WebUI.sendKeys(findTestObject('Object Repository/WS/ws-chat/div_Input-chat-content'), "Hi!")
+    WebUI.delay(1)
+    WebUI.sendKeys(findTestObject('Object Repository/WS/ws-chat/div_Input-chat-content'), Keys.chord(Keys.ENTER))
+    WebUI.delay(2)
+    WebUI.comment("Message 'Hi!' sent successfully")
+    println("Message 'Hi!' sent successfully")
+    
     WebUI.comment("=== Test Case TC_Create_Station_And_Invite completed successfully ===")
     println("=== Test Case TC_Create_Station_And_Invite completed successfully ===")
     

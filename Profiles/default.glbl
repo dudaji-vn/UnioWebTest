@@ -27,6 +27,13 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'lieucao16122003'</initValue>
+      <name>Name</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'lieuctse172847@fpt.edu.vn'</initValue>
       <name>INVITEE_EMAIL</name>
       <protected>false</protected>

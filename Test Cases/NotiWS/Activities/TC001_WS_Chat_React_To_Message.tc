@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_WS_Chat_React_To_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2311d607-d57a-4b38-97dc-635183a02735</testCaseGuid>
+</TestCaseEntity>

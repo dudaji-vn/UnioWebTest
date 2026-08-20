@@ -55,20 +55,20 @@ try {
     WebUI.waitForElementVisible(findTestObject('Object Repository/Dashboard/button_Noti-Station_Dashboard'), 15)
     
     // Check if notification badge exists before clicking
-//    boolean hasBadgeBeforeClick = WebUI.verifyElementPresent(
-//        findTestObject('Object Repository/Dashboard/div_Noti-Station_Badge'),
-//        5,
-//        FailureHandling.OPTIONAL
-//    )
-//    
-//    if (!hasBadgeBeforeClick) {
-//        WebUI.comment("Notification badge should be present for inviter before opening popover")
-//        println("Notification badge should be present for inviter before opening popover")
-//    }
-//    WebUI.verifyEqual(hasBadgeBeforeClick, true)
-//    WebUI.comment("Notification badge is present on Dashboard before opening popover")
-//    println("Notification badge is present on Dashboard before opening popover")
-//    
+    boolean hasBadgeBeforeClick = WebUI.verifyElementPresent(
+        findTestObject('Object Repository/Dashboard/div_Noti-Station_Badge'),
+        5,
+        FailureHandling.OPTIONAL
+    )
+    
+    if (!hasBadgeBeforeClick) {
+        WebUI.comment("Notification badge should be present for inviter before opening popover")
+        println("Notification badge should be present for inviter before opening popover")
+    }
+    WebUI.verifyEqual(hasBadgeBeforeClick, true)
+    WebUI.comment("Notification badge is present on Dashboard before opening popover")
+    println("Notification badge is present on Dashboard before opening popover")
+    
     // Step 3: Click to open notification popover on Dashboard
     WebUI.comment("=== Step 3: Open notification popover on Dashboard ===")
     println("=== Step 3: Open notification popover on Dashboard ===")

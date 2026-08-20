@@ -6,15 +6,18 @@
    <elementGuidId>46eeb806-6a61-4d3c-92a4-aeb3289d18c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@data-slot='context-menu-trigger' and contains(@class, 'group/sidebar-button')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-_r_3o_']/div/ul/div/li/button</value>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@data-slot = 'context-menu-trigger' and @data-sidebar = 'menu-button' and (text() = 'General ' or . = 'General ')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,23 +26,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a64a3e22-52fa-46d8-932c-ce55fe48645d</webElementGuid>
+      <webElementGuid>3e9ca9d0-0e82-4276-bceb-ce4998f549a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-slot</name>
       <type>Main</type>
       <value>context-menu-trigger</value>
-      <webElementGuid>23840857-dfb4-4fa1-984c-83377c0280d4</webElementGuid>
+      <webElementGuid>2f95de8c-a39b-4d51-bdd2-b217c5244486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-sidebar</name>
       <type>Main</type>
       <value>menu-button</value>
-      <webElementGuid>33893612-e38e-459d-b53e-d2c7301d112b</webElementGuid>
+      <webElementGuid>8d753f86-12f1-417e-a633-58937d9cc761</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +50,7 @@
       <name>data-size</name>
       <type>Main</type>
       <value>default</value>
-      <webElementGuid>92f257db-9cfb-4b0c-beeb-6c2dba95f996</webElementGuid>
+      <webElementGuid>bbbbf27d-ae49-42db-89bc-2a11f154e667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +58,7 @@
       <name>data-active</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8ba31b22-18e5-4cbe-8f5b-8a3f5d01a166</webElementGuid>
+      <webElementGuid>ade046e4-437e-49f1-ba37-4e67ebdf1622</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>peer/menu-button flex w-full items-center overflow-hidden text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:font-medium data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! group-data-[collapsible=icon]:p-2! [&amp;>span:last-child]:truncate [&amp;>svg]:size-4 [&amp;>svg]:shrink-0 hover:text-sidebar-accent-foreground text-sm group/sidebar-button h-9 cursor-pointer gap-0 rounded-md p-1 text-foreground/80 hover:bg-sidebar-accent data-[active=true]:bg-selected-item data-[active=true]:text-selected-item-foreground</value>
-      <webElementGuid>d07ab553-f934-4949-94ea-1a9c140e14d6</webElementGuid>
+      <webElementGuid>844846a0-5300-4e01-83d2-c293373d8011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +74,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>1ebac645-d5c0-4a7a-baf8-26979d224a2c</webElementGuid>
+      <webElementGuid>ec81d7ef-c40c-404a-bf5e-b321aebb55c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>General </value>
-      <webElementGuid>58ee6215-4b7a-43d5-987d-186db1f4a945</webElementGuid>
+      <webElementGuid>b245c1b1-3cd7-4fab-a8fd-9fad4eba7111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-_r_3o_&quot;)/div[@class=&quot;w-full text-sm&quot;]/ul[@class=&quot;flex w-full min-w-0 flex-col gap-1&quot;]/div[@class=&quot;flex min-h-0.5 w-full flex-col gap-1&quot;]/li[@class=&quot;group/menu-item relative&quot;]/button[@class=&quot;peer/menu-button flex w-full items-center overflow-hidden text-left outline-hidden ring-sidebar-ring transition-[width,height,padding] focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground disabled:pointer-events-none disabled:opacity-50 group-has-data-[sidebar=menu-action]/menu-item:pr-8 aria-disabled:pointer-events-none aria-disabled:opacity-50 data-[active=true]:font-medium data-[state=open]:hover:bg-sidebar-accent data-[state=open]:hover:text-sidebar-accent-foreground group-data-[collapsible=icon]:size-8! group-data-[collapsible=icon]:p-2! [&amp;>span:last-child]:truncate [&amp;>svg]:size-4 [&amp;>svg]:shrink-0 hover:text-sidebar-accent-foreground text-sm group/sidebar-button h-9 cursor-pointer gap-0 rounded-md p-1 text-foreground/80 hover:bg-sidebar-accent data-[active=true]:bg-selected-item data-[active=true]:text-selected-item-foreground&quot;]</value>
-      <webElementGuid>771959a7-9df6-4013-a2cd-d13cff73d1e9</webElementGuid>
+      <webElementGuid>451fc96a-f833-4f0a-b891-4db390011a84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-_r_3o_']/div/ul/div/li/button</value>
-      <webElementGuid>f6cbf015-f13b-4b42-981f-e2827680fdd9</webElementGuid>
+      <webElementGuid>6d9ecdc0-6dd2-4b01-a874-dd80e60a9056</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Joined Group'])[1]/following::button[1]</value>
-      <webElementGuid>d7cbcf29-89af-4b93-ac27-94b71b082528</webElementGuid>
+      <webElementGuid>841a8b46-75e2-4055-a909-ecd418824296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unread'])[1]/following::button[2]</value>
-      <webElementGuid>3ac74047-808e-4cc6-914e-a30de2dc1549</webElementGuid>
+      <webElementGuid>ed5dacb2-070c-4031-8fe7-039ad340206a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Member'])[1]/preceding::button[1]</value>
-      <webElementGuid>e9f00e46-04dd-402b-9d51-fe495b6fc701</webElementGuid>
+      <webElementGuid>857dd0cf-57b9-4a71-94dc-b031e0e4352d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/li/button</value>
-      <webElementGuid>67a9e572-29ef-4e1b-8979-86a7cdcfb810</webElementGuid>
+      <webElementGuid>e79707a1-fa5e-42ce-a93f-7fd094c71cc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'General ' or . = 'General ')]</value>
-      <webElementGuid>b76cffa0-ebbe-4731-82f2-673df5fa27c9</webElementGuid>
+      <webElementGuid>816c12a0-161f-485f-998f-461bdc4f3b47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
